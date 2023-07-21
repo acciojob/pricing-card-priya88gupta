@@ -1,8 +1,15 @@
 /*  your css code here. If applicable */
-article{
+div{
 	text-align:center;
 }
 img{
 	width:300px;
 	height:200px;
+}
+button{
+	font-size:25px;
+	padding:10px;
+	color:white;
+	background-color:red;
+	
 }
